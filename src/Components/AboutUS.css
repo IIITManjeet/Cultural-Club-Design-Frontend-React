@@ -1,0 +1,302 @@
+*{
+    outline: none;
+}
+.about-bg{
+width: 100%;
+height: auto;
+overflow: hidden;
+background: #d17b35;
+box-sizing: border-box;
+}
+.about-bg .row{
+margin: 5px;
+padding: 2px;
+}
+h1{
+float: left;
+width: 100%;
+color:#8f1416;
+padding: 15px 0px;
+line-height: 28px;
+letter-spacing: 0px;
+}
+p{
+display: block;
+margin: 0 0 5px;
+}
+.about-bg .row .col p{
+font-size: 14px;
+color:black;
+line-height: 26px;
+font-family: 'Open Sans', sans-serif;
+text-align: left;
+padding-top: 5px;
+}
+.about-bg .about-img{
+    width: 100%;
+    max-width: 250px;
+    text-align: center;
+    margin: 10px 0px 15px 20px;
+    float: right;
+    padding: 0px;
+    border: 3px solid #fff;
+    box-shadow: 0px 0px 4px #333;
+    border-radius: 10px;
+}
+.about-bg .about-img img{
+    vertical-align: middle;
+}
+.about-bg .Button1{
+    font-size: 14px;
+    line-height: 26px;
+    text-align: left;
+    padding-top: 5px;
+    font-weight: 500;
+}
+.about-bg .program-box{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    overflow: hidden;
+    height: auto;
+    border-left: 2px solid #a51515;
+    border-right: 2px solid #a51515;
+    background: -webkit-linear-gradient(top, #fdd3b2 36%,#f7b783 100%);
+}
+.about-bg .program-box h4{
+    float: left;
+    color: #c72315;
+    text-align:center;
+    padding: 10px 0px;
+    line-height: 26px;
+    text-transform: capitalize;
+    position:relative;
+}
+.about-bg .program-box .top-nav{
+    margin:0px;
+    padding: 5px;
+}
+.about-bg ul{
+    list-style-type: none;
+}
+.top-nav li{
+    display: block;
+    margin: 0px;
+    padding: 5px 0px 5px 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+    background: url(https://dadarmatungaculturalcentre.org/images/bullet1.png)0px 15px no-repeat;
+    list-style: none;
+    line-height: 30px;
+    text-align: left;
+    border-bottom: 1px solid #d17b35;
+}
+.top-nav li b{
+    color: #c72315;
+}
+.news-h2 {
+    width: 100%;
+    display: block;
+    float: left;
+    font-size: 24px;
+    color: #a02b2b;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    padding: 10px 0px;
+    line-height: 26px;
+    text-transform: capitalize;
+    font-weight: 400;
+    position: relative;
+    border-bottom-style: dotted;
+    border-bottom-color: #868584;
+    border-bottom-width: 2px;
+}
+.news-box {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    overflow: hidden;
+    height: 390px;
+    border-bottom: 5px solid #bb210f;
+    border-left: 1px solid #dca4a4;
+    border-right: 1px solid #dca4a4;
+    border-top: 1px solid #dca4a4;
+    box-shadow: 0px 4px 15px #333;
+    background: #fdefdb;
+    background: -moz-linear-gradient(top, #fdefdb 36%, #f8dcb5 100%);
+    background: -webkit-linear-gradient(top, #fdefdb 36%,#f8dcb5 100%);
+    background: linear-gradient(to bottom, #fdefdb 36%,#f8dcb5 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdefdb', endColorstr='#f8dcb5',GradientType=0 );
+}
+.copyright .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.fs0{
+    font-size: 13px;
+    vertical-align: middle;
+}
+.row{
+    margin-right: -15px;
+    margin-left:-15px;
+}
+.mB45{
+    margin-bottom: 45px;
+}
+.mT40{
+    margin-top: 40px;
+}
+.row p {
+    font-size: 14px;
+    color: #000;
+    line-height: 26px;
+    text-align: left;
+    padding-top: 5px;
+    transition: All 0.5s ease;
+    font-weight: 500;
+}
+.red2 {
+    color: #bb210f 
+}
+.red{
+    color: #bb210f 
+}
+a{
+    color: #bb210f 
+}
+.mT20{
+    margin-top: 20px;
+}
+.bx-wrapper {
+    padding: 0;
+    position: relative;
+}
+.fullWidth {
+    width: 100%;
+    height: auto;
+}
+.mainfooter {
+    padding: 25px 0px 0px 0px;
+    background: #2c2c30;
+    width: 100%;
+    z-index: 0;
+    height: auto;
+}
+.pos-r {
+    position: relative;
+}
+.copyright {
+    background: #1e1e20;
+    padding: 7px 10px;
+    text-align: left;
+    color: #868688;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    margin-top: 0px;
+    line-height: 30px;
+    font-weight: 400;
+    border-top: 0px solid #D2D3D4;
+}
+.footlink p{
+    color: #868688;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: justify;
+    font-weight: 400;
+}
+.mainfooter h3 {
+    width: 100%;
+    float: left;
+    display: block;
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    padding: 10px 0px;
+    line-height: 25px;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+.mB60{
+    margin-bottom: 60px;
+}
+.mR5 {
+    margin-right: 5px;
+}
+.fl {
+    float: left;
+}
+.middle {
+    vertical-align: middle;
+    padding-top: 5px;
+    display: inline-block;
+}
+.mB40 {
+    margin-bottom: 40px 
+}
+.mB20 {
+    margin-bottom: 20px 
+}
+.mR2{
+    margin-right: 2px;
+}
+.footlink p a {
+    color: #868688;
+    font-weight: normal;
+}
+.mL25 {
+    margin-left: 25px;
+}
+.socialicon{
+    width: 100%;
+    padding-left: 0;
+}
+.ul{
+    list-style-type: none;
+}
+.socialicon li {
+    padding: 1px;
+    display: inline-block;
+    margin-left:0px;
+    margin-top: 3px;
+    color: #fff;
+    line-height: 30px;
+    font-style: italic;
+    font-size: 13px;
+}
+.socialicon li a {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 6px;
+    border-radius: 20px;
+    border: 0px solid #fff;
+}
+.fb {
+    background: #375db2;
+}
+.mB5 {
+    margin-bottom: 5px;
+}
+.elevator_item{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    margin:auto;
+    right: 2%;
+    top: 5px;
+    opacity: 1;
+    z-index: 999999;
+    background: none;
+    color: #fff;
+    border-radius: 50%;
+}
